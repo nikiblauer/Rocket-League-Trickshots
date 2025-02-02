@@ -1,4 +1,5 @@
 # Rocket League Trick Shot Classification
+![](rocket-league.jpg)
 
 ## Task Description
 
